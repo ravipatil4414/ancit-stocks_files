@@ -1,0 +1,6 @@
+kiteconnect
+Flask
+requests
+mysql-connector-python
+pandas
+jupyter

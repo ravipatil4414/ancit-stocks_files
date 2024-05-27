@@ -1,0 +1,4 @@
+kiteconnect
+mysql-connector-python
+Flask
+
